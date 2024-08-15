@@ -15,6 +15,7 @@
   - **SP110E** - SPI RGB(W) Controller
 
 ### 📱BanlanX
+  - **SP530E** - PWM/SPI RGB, RGBW, RGBCCT Controller
   - **SP601E** / **SP602E** / **SP608E** - Multi Channel SPI RGB Controllers
   - **SP611E** - SPI RGB Controller
   - **SP613E** - PWM RGB Controller
