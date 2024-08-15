@@ -40,6 +40,8 @@ UNILED_CHIP_TYPES: Final = {
     0x18: "SK6812_RGBW",
     0x19: "P9414",
     0x1A: "P9412",
+    # 5 Color - RGB-CCT
+    0x1B: "WS2805",
 }
 
 UNILED_CHIP_TYPES_4COLOR: Final = [
