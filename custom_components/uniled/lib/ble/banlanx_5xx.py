@@ -38,7 +38,7 @@ from ..chips import (
     UNILED_CHIP_ORDER_RGBCW,
 )
 from .device import (
-    UUID_BASE_FORMAT as BANLANX6XX_UUID_FORMAT,
+    UUID_BASE_FORMAT as BANLANX5XX_UUID_FORMAT,
     ParseNotificationError,
     UniledBleDevice,
     UniledBleModel,
